@@ -66,6 +66,7 @@ Edgar Omar Lopez Hernandez
 
 
 Expresiones de Gratitud 🎁
+
 📢Quiero hacer publica mi gratitud y agradecimiento a:
 
 David Gonzales Esquivel (Mouse manager jaja ntc)
