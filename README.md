@@ -1,10 +1,11 @@
 # banamexIbm
 
 Título del Proyecto
+
 Este proyecto recrea un ambiente de microservicios donde la api principal Aplly for a credit card recibe datos personales y responde si puedes aplicar a una tarjeta de credito y las sucursales o cajeros donde puedes acudir, incluye descubridor de servicios y servidor de configuraciones.
 
 Comenzando 🚀
-Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
+
 Clona los 6 microservicios en el siguiente orden:
 
 1) discoveryservices
@@ -67,10 +68,10 @@ Edgar Omar Lopez Hernandez
 Expresiones de Gratitud 🎁
 📢Quiero hacer publica mi gratitud y agradecimiento a:
 
-David Gonzales Esquivel (Mousse manager jaja ntc)
+David Gonzales Esquivel (Mouse manager jaja ntc)
 Ana Vialeny Mota Gomez
 Abraham Velazquez Olmos
-y a todos los instructores que compartieron su tiempo y conocimiento por esta gran oportunidad y aunque no pude dedicarme al 100 debido a mi trabajo y que a esta ultima semana cuide de mi hijo no quise dejar pasar la oportunidad de entregar el avance que hice.
+y a todos los instructores que compartieron su tiempo y conocimiento por esta gran oportunidad y aunque no pude dedicarme al 100 debido a mi trabajo y que a esta ultima semana cuide de mi hijo tiempo completo no quise dejar pasar la oportunidad de entregar el avance que hice.
 
 Muchas gracias en verdad!!!!!!!!!!!!!!!!!!!
 
