@@ -42,18 +42,18 @@ La forma de proceder del micro esta basada en 6 pasos que a continuacion se desc
 
 Pre-requisitos 📋
 
-Java 8
-Maven
-intellij idea o el IDE de tu preferencia
+1) Java 8
+2) Maven
+3 )intellij idea o el IDE de tu preferencia
 
 
 Los puertos disponibles para ejecutar el ambiente se describen a continuacion y podremos revisar el repositorio llamado config-repo disponible tambien en este perfil:
 
-Eureka discovery services: http://localhost:8761
-Config server: http://localhost:8383/api/v1                   spring.application.name = configservice
-Credit cards: http://localhost:8082/api/v1/creditCards        spring.application.name = creditcard
-Banks information: http://localhost:8083/api/v1/locations     spring.application.name = bankInformation-
-Apply for a credit card: http://localhost:8084/api/v1/apply   spring.application.name = applyforacreditcard
+1) Eureka discovery services: http://localhost:8761
+2) Config server: http://localhost:8383/api/v1                   spring.application.name = configservice
+3) Credit cards: http://localhost:8082/api/v1/creditCards        spring.application.name = creditcard
+4) Banks information: http://localhost:8083/api/v1/locations     spring.application.name = bankInformation-
+5) Apply for a credit card: http://localhost:8084/api/v1/apply   spring.application.name = applyforacreditcard
 
 
 Construido con 🛠️
