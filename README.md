@@ -69,10 +69,12 @@ Expresiones de Gratitud 🎁
 
 📢Quiero hacer publica mi gratitud y agradecimiento a:
 
-David Gonzales Esquivel (Mouse manager jaja ntc)
-Ana Vialeny Mota Gomez
-Abraham Velazquez Olmos
+1) Ana Vialeny Mota Gomez
+2) David Gonzales Esquivel (Mouse manager jaja ntc)
+3) Abraham Velazquez Olmos
 y a todos los instructores que compartieron su tiempo y conocimiento por esta gran oportunidad y aunque no pude dedicarme al 100 debido a mi trabajo y que a esta ultima semana cuide de mi hijo tiempo completo no quise dejar pasar la oportunidad de entregar el avance que hice.
+
+Se nota a kilometros de distancia, su entrega, su conocimiento y lo valiosos que son como profesionales y como personas!
 
 Muchas gracias en verdad!!!!!!!!!!!!!!!!!!!
 
