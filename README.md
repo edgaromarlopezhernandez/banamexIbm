@@ -1,6 +1,5 @@
-# banamexIbm
+banamexIbm
 
-Título del Proyecto
 
 Este proyecto recrea un ambiente de microservicios donde la api principal Aplly for a credit card recibe datos personales y responde si puedes aplicar a una tarjeta de credito y las sucursales o cajeros donde puedes acudir, incluye descubridor de servicios y servidor de configuraciones.
 
